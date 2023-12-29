@@ -2818,6 +2818,7 @@ input, select, textarea {
 			display: inline-block;
 			padding: 0 0.5rem 0 0;
 			vertical-align: middle;
+			width: 50px;
 		}
 
 			ul.icons li:last-child {
@@ -3861,12 +3862,12 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				width: 50%;
+				width: 75%;
 			}
 
 			#main > .posts > * {
 				padding: 4rem;
-				width: 50%;
+				width: 75%;
 			}
 
 			#main > .posts > article {
